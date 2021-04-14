@@ -1,0 +1,6 @@
+help
+many
+work
+play
+meal
+rent
